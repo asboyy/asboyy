@@ -1,50 +1,49 @@
-<h1 align="center">
-  Hi 👋 I'm Muhammad Fahmi 
-</h1>
+<h1 align="center">Hi 👋 I'm Muhammad Fahmi </h1>
 
-<h3 align="center">
-  🌐 Web-Based Application Developer
-</h3>
+<h3 align="center">🌐 Fullstack Web Application Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Backend+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Backend+%26+API+Development;Clean+Code+Enthusiast;Always+Learning" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Focused on Web-Based Application Development  
-- ⚙️ Backend & API Development  
-- 🗄️ Working with SQL Databases  
-- 📈 Passionate about scalable and clean architecture  
-- 📍 Based in Indonesia  
+I focus on building scalable, maintainable, and high-performance web applications.  
+Passionate about backend systems, REST APIs, and modern frontend development.
+
+- 💻 Fullstack Web Development  
+- ⚙️ Backend & API Engineering  
+- 🗄️ SQL Database Management  
+- 📈 Performance Optimization  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Tech Stack
 
 ### 🌍 Frontend
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
 ### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,java" />
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python" />
 </p>
 
 ### 🗄 Database
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 💻 Other Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" />
-</p>
+---
 
-Visual Basic (Desktop Development)
+## 🧩 Additional Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,dotnet" />
+</p>
 
 ---
 
@@ -57,19 +56,18 @@ Visual Basic (Desktop Development)
 
 ---
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/asboyy/asboyy/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📫 Contact
 
 📧 muhammadfahmiputra2005@gmail.com  
 
----
-
 <p align="center">
   ⭐ Open for collaboration on modern web-based applications
-</p>
----
-
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/asboyy/asboyy/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
