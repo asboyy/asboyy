@@ -69,7 +69,7 @@ Visual Basic (Desktop Development)
 ---
 
 
-##🐍 Contribution Snake
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/asboyy/asboyy/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
