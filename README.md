@@ -66,3 +66,10 @@ Visual Basic (Desktop Development)
 <p align="center">
   ⭐ Open for collaboration on modern web-based applications
 </p>
+---
+
+
+##🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/asboyy/asboyy/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
