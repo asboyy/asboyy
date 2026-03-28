@@ -99,12 +99,21 @@ I focus on:
 
 ---
 
-## 📫 Contact Me
+## 🌐 Connect With Me
 
-📧 Email: [muhammadfahmiputra2005@gmail.com](mailto:muhammadfahmiputra2005@gmail.com)
+<p align="center">
+  <a href="mailto:muhammadfahmiputra2005@gmail.com" title="Email Me">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-fahmi-714981265/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/m.fahmisyhptr/" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
 💼 Open for:
-
 * Freelance Projects
 * Internship Opportunities
 * Collaboration
