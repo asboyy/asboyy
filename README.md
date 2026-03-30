@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Muhammad Fahmi</h1>
+<h1 align="center">Hi 👋 I'm Muhammad Fahmi Syah Putra</h1>
 
 <h3 align="center">💻 Software Developer | Web & Mobile (Student)</h3>
 
