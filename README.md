@@ -21,7 +21,6 @@ I focus on:
 
 * ⚙️ Backend & API Development
 * 📱 Mobile App Development (Flutter)
-* 🌐 Modern Web Development
 * 🗄️ SQL Database Management
 
 ---
@@ -114,7 +113,6 @@ I focus on:
 </p>
 
 💼 Open for:
-* Freelance Projects
 * Internship Opportunities
 * Collaboration
 
